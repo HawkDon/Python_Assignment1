@@ -1,6 +1,6 @@
 # Python Assignment 1
 
-##Group: Oliver Scholz Lønning, Stefan Schou Eliasen og Mathias Bertels Jensenius
+## Group: Oliver Scholz Lønning, Stefan Schou Eliasen og Mathias Bertels Jensenius
 
 ## [elements-by-episode.csv](https://github.com/HawkDon/Python_Assignment1/blob/master/elements-by-episode.csv)
 ### This .csv contains data behind the story [A Statistical Analysis of the Work of Bob Ross](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/).
