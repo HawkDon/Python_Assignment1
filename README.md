@@ -2,16 +2,13 @@
 
 ## Group: Oliver Scholz Lønning, Stefan Schou Eliasen og Mathias Bertels Jensenius
 
-## [elements-by-episode.csv](https://github.com/HawkDon/Python_Assignment1/blob/master/elements-by-episode.csv)
-### This .csv contains data behind the story [A Statistical Analysis of the Work of Bob Ross](https://fivethirtyeight.com/features/a-statistical-analysis-of-the-work-of-bob-ross/).
-
-## [bad-drivers.csv](https://github.com/HawkDon/Python_Assignment1/blob/master/bad-drivers.csv)
-### This .csv contains data behind the story [Dear Mona, Which State Has The Worst Drivers?](http://fivethirtyeight.com/datalab/which-state-has-the-worst-drivers/)
+## [BobRoss.txt](https://github.com/HawkDon/Python_Assignment1/blob/master/BobRoss.txt)
+### This .txt contains data behind source of [Bob Ross Twitch Chatlog 2015](https://archive.org/details/BobRossTwitchChatlog2015).
 
 ## Questions for Bob Ross:
 
-* How many episodes has Bob Ross made?
-* What year did Bob Ross start his TV-Show?
-* What year did Bob Ross end his TV-Show?
-* Question 4
+* How many lines it the .txt file?
+* How many times does the .txt file write "RUINED" ?
+* How many messages was written after 05:00 ?
+* How many different users does the .txt file contain ?
 * Question 5
