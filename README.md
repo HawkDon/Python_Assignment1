@@ -9,7 +9,7 @@
 
 * How many lines does the .txt file have?
 * How many times does the .txt file write "RUINED" ?
-* How many messages was written after 05:00 ?
+* How many messages was written after 03:00 ?
 * How many different users does the .txt file contain ?
 * What is most used word in the .txt file ?
 
